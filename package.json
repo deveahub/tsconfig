@@ -1,0 +1,15 @@
+{
+  "name": "tsconfig",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrios-dev/tsconfig"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "apps-nextjs.json",
+    "base.json",
+    "node-package.json",
+    "react-package.json"
+  ]
+}
